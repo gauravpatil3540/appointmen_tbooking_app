@@ -1,2 +1,2 @@
-# appointmen_tbooking_app
+# appointment_booking_app
 its only the simple mern stack app
